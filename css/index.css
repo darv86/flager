@@ -1,0 +1,16 @@
+.body {
+	background-color: #444;
+	color: white;
+}
+.flags-list {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 16px;
+}
+
+.flag-item {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
